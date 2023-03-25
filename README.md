@@ -30,7 +30,7 @@
 3. Get the Python client by cloning the demo repository into a directory of your choice with the following command:
      
    ```Console
-   git clone <URL>
+   git clone https://github.com/Shawn-Armstrong/ur_primary_decode.git
    ```
    
 4. Start the client by navigating inside the directory you cloned and running the following command:
